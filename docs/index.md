@@ -2,7 +2,7 @@
 title: Generalitats
 ---
 
-# Projectes curriculars i programacions didàctiques
+# Projectes curriculars i programacions didàctiques 2024-2025
 
 Els projectes curriculars i programacions didàctiques de l'IES El Caminàs segueixen tots una estructura i continguts mostrada a l'apartat Genera de cada subsecció.
 
